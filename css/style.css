@@ -1,0 +1,11 @@
+
+.welcome-container{
+    padding: 0px 0px 0px 0px;
+}
+.container{
+   display: flex; 
+}
+#text-div {
+    float: right;
+    padding: 10px;
+}
